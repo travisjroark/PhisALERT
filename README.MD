@@ -1,7 +1,7 @@
 # PhisALERT: A basic phishing kit detection tool
 
 * Version 1.0.0
-* 28 September 2021
+* 17 October 2021
 
 Testing and development took place on Python 3.7.3 (Linux)
 
